@@ -1,0 +1,7 @@
+div[data-title='stickyContainerSection']{
+	overflow: visible;
+}
+div[data-title='stickyMobilebutton'] {
+	position: sticky;
+    bottom: 0px;
+}
